@@ -13,7 +13,7 @@
    <children>
       <Label text=" Department Registration">
          <font>
-            <Font name="System Bold" size="14.0" />
+            <Font name="Arial Black" size="14.0" />
          </font>
          <padding>
             <Insets left="5.0" top="5.0" />
